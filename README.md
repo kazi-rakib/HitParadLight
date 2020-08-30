@@ -1,6 +1,6 @@
 # HitParadLight
 A simple dictionay like app
 
-Features to be added:
-  - Database 
-  - Network
+# Features to be added:
+   - Database 
+   - Network
